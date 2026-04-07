@@ -84,8 +84,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelRol1109&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelRol1109&theme=github-dark-blue&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelRo1109&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelRo1109&theme=github-dark-blue&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@
 
 - 📧 **Email:** sjurodriguez@gmail.com
 - 💼 **LinkedIn:** [samuel-rodriguez-b720a73b5](https://www.linkedin.com/in/samuel-rodriguez-b720a73b5/)
-- 🐙 **GitHub:** [SamuelRol1109](https://github.com/SamuelRol1109)
+- 🐙 **GitHub:** [SamuelRo1109](https://github.com/SamuelRol109)
 - 📍 **Ubicación:** Bogotá D.C., Colombia
 
 ---
