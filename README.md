@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔍_Buscando-Prácticas_Profesionales-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🏆_Oracle_APEX-Certified_Professional-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/⚡_Programación-Competitiva_RPC-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Estado-En_búsqueda_de_prácticas-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_APEX-Certified_Professional-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Programación_Competitiva-RPC-4B5563?style=flat-square"/>
 </p>
 
 ---
@@ -105,16 +105,20 @@
 
 ## 🤝 Conéctate conmigo
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/samuel-rodriguez-b720a73b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Samuel_Rodríguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:sjurodriguez@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sjurodriguez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
   <a href="https://github.com/SamuelRo1109" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-SamuelRo1109-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
+</p>
+
+<p align="center">
+  <b>Samuel Rodríguez</b> · Bogotá, Colombia  
 </p>
 
 ---
