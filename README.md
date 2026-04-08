@@ -4,7 +4,7 @@
   <b>Ingeniero de Sistemas en Formación · VII Semestre · Universidad El Bosque</b><br/>
   Bogotá D.C., Colombia
 </p>
----
+
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></picture> Sobre mí
 
