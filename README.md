@@ -131,8 +131,12 @@ Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelRo1109&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelRo1109&theme=github-dark-blue&hide_border=true" height="150"/>
+  <a href="https://github.com/SamuelRo1109">
+    <img src="https://github-readme-stats.vercel.app/api?username=SamuelRo1109&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="150"/>
+  </a>
+  <a href="https://github.com/SamuelRo1109">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelRo1109&theme=tokyonight&hide_border=true" height="150"/>
+  </a>
 </p>
 
 
