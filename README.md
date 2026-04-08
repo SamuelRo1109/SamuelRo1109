@@ -4,11 +4,10 @@
   <b>Ingeniero de Sistemas en Formación · VII Semestre · Universidad El Bosque</b><br/>
   Bogotá D.C., Colombia
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Estado-En_búsqueda_de_prácticas-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_APEX-Certified_Professional-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Programación_Competitiva-RPC-4B5563?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🔍_Buscando-Prácticas_Profesionales-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🏆_Oracle_APEX-Certified_Professional-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/⚡_Programación-Competitiva_RPC-purple?style=flat-square"/>
 </p>
 
 ---
@@ -19,13 +18,16 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-Soy estudiante de **Ingeniería de Sistemas** en la Universidad El Bosque (VII semestre), enfocado en el desarrollo **backend**, la arquitectura de software y la construcción de **APIs REST escalables**. A lo largo de mi formación he trabajado con tecnologías como Python, Java y herramientas orientadas a entornos empresariales, fortaleciendo mis habilidades en la creación de soluciones reales.
+Soy estudiante de **Ingeniería de Sistemas** en la Universidad El Bosque, con enfoque en desarrollo **backend**, arquitectura de software y construcción de soluciones escalables.
 
-Cuento con certificación **Oracle APEX Cloud Developer Professional** y experiencia en **programación competitiva**, lo que me ha permitido desarrollar pensamiento lógico, análisis bajo presión y enfoque en eficiencia.
+Me interesa construir sistemas que no solo funcionen, sino que estén bien diseñados desde la lógica y la estructura. Disfruto resolver problemas, optimizar soluciones y entender cómo funcionan las cosas a un nivel más profundo.
 
-🤝 Me interesa seguir creciendo en entornos colaborativos y participar en proyectos que generen impacto real.  
-🚀 Actualmente estoy en búsqueda de **prácticas profesionales** donde pueda aplicar y potenciar mis conocimientos.  
-📫 Puedes contactarme en: **sjurodriguez@gmail.com**
+Actualmente estoy fortaleciendo mis conocimientos en **Spring Boot, Flask, diseño de APIs REST y gestión de bases de datos relacionales y NoSQL**, buscando construir aplicaciones cada vez más completas y cercanas a entornos reales.
+
+💡 Me interesa hablar sobre desarrollo backend, arquitectura de software y buenas prácticas.  
+🚀 Disfruto trabajar en proyectos donde pueda aprender, aportar y mejorar constantemente.  
+📍 Bogotá, Colombia  
+📫 Reach me at: **sjurodriguez@gmail.com**
 
 <br clear="right"/>
 
@@ -144,5 +146,5 @@ Cuento con certificación **Oracle APEX Cloud Developer Professional** y experie
 ---
 
 <p align="center">
-  <i>"La mejor forma de aprender es construyendo y compartiendo código."</i>
+  <i>"Desarrollar software no es solo escribir código, sino diseñar respuestas reales a problemas concretos, con criterio, seguridad y visión."</i>
 </p>
