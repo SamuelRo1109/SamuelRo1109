@@ -21,15 +21,15 @@ Cuento con experiencia en programación competitiva, participando durante varios
 Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño de APIs REST y gestión de bases de datos relacionales y NoSQL, buscando construir aplicaciones cada vez más completas y cercanas a entornos reales.
 
 🚀 Disfruto trabajar en proyectos donde pueda aprender, aportar y mejorar constantemente.  
-📫 Contáctame en: **sjurodriguez@gmail.com**
-
-⚡ Fun fact: Los deportes ⚾ y los videojuegos 🎮 son parte esencial de mi día a día.
-
-<p align="left">
+📫 Contáctame en: **sjurodriguez@gmail.com** o <p align="left">
   <a href="https://www.linkedin.com/in/samuel-rodriguez-b720a73b5/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+
+⚡ Fun fact: Los deportes ⚾ y los videojuegos 🎮 son parte esencial de mi día a día.
+
 
 <br clear="right"/>
 
