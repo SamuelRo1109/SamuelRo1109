@@ -21,12 +21,14 @@ Cuento con experiencia en programación competitiva, participando durante varios
 Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño de APIs REST y gestión de bases de datos relacionales y NoSQL, buscando construir aplicaciones cada vez más completas y cercanas a entornos reales.
 
 🚀 Disfruto trabajar en proyectos donde pueda aprender, aportar y mejorar constantemente.  
-📫 Contáctame en: **sjurodriguez@gmail.com** o <p align="left">
+
+📫 Contáctame en: **sjurodriguez@gmail.com**
+
+<p align="left">
   <a href="https://www.linkedin.com/in/samuel-rodriguez-b720a73b5/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 
 ⚡ Fun fact: Los deportes ⚾ y los videojuegos 🎮 son parte esencial de mi día a día.
 
@@ -35,10 +37,11 @@ Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño
 
 ---
 
-## 🛠️ Lenguajes y herramientas
+---
 
-**Lenguajes:**
+## 🛠️ Tecnologías
 
+### 💻 Lenguajes
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -46,16 +49,14 @@ Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-**Frameworks & Backend:**
-
+### ⚙️ Backend & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 </p>
 
-**Bases de datos:**
-
+### 🗄️ Bases de datos
 <p align="left">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -63,15 +64,26 @@ Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-**DevOps & Herramientas:**
+### 🧪 Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/JUnit5-f5f5f5?style=for-the-badge&logo=junit5&logoColor=dc524a"/>
+  <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+</p>
 
+### 🧰 DevOps & Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+### 🖥️ Entorno & Herramientas de desarrollo
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 </p>
 
 ---
