@@ -15,12 +15,28 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad El Bosque (VII Semestre).
-- 🏆 Certificado por **Oracle University** como **Oracle APEX Cloud Developer Professional (1Z0-771)**.
-- ⚡ 3 años de **programación competitiva** en torneos avalados por la **RPC** a nivel latinoamericano.
-- 💡 Enfocado en desarrollo **backend**, arquitectura de software y APIs REST escalables.
-- 🤝 Me caracterizo por el liderazgo técnico, pensamiento crítico y trabajo en equipo bajo metodologías ágiles.
-- 🚀 Actualmente en búsqueda de **prácticas profesionales** para aplicar mis conocimientos en entornos reales.
+## <picture><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-developer-computer-science-flaticons-flat-flat-icons.png" width="40"/></picture> About me
+
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+</picture>
+
+<br>
+
+- 🎓 Estudiante de **Ingeniería de Sistemas** (VII semestre) en la Universidad El Bosque.  
+- 💻 Enfocado en desarrollo **backend**, arquitectura de software y construcción de APIs REST escalables.  
+- 🏆 Certificado como **Oracle APEX Cloud Developer Professional**.  
+- ⚡ 3 años de experiencia en **programación competitiva** (RPC).  
+
+- 🌱 Actualmente fortaleciendo conocimientos en:  
+  `Spring Boot` · `Flask` · `Arquitectura de software` · `Docker`  
+
+- 👯 Interesado en colaborar en proyectos **open source** y entornos de desarrollo reales.  
+- 💬 Pregúntame sobre backend, APIs o bases de datos — siempre dispuesto a ayudar.  
+
+- 🚀 Actualmente en búsqueda de **prácticas profesionales**  
+
+<br>
 
 ---
 
