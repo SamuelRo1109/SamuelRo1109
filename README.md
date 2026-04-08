@@ -13,30 +13,21 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
-
-## <picture><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-developer-computer-science-flaticons-flat-flat-icons.png" width="40"/></picture> About me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></picture> Sobre mí
 
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-<br>
+Soy estudiante de **Ingeniería de Sistemas** en la Universidad El Bosque (VII semestre), enfocado en el desarrollo **backend**, la arquitectura de software y la construcción de **APIs REST escalables**. A lo largo de mi formación he trabajado con tecnologías como Python, Java y herramientas orientadas a entornos empresariales, fortaleciendo mis habilidades en la creación de soluciones reales.
 
-- 🎓 Estudiante de **Ingeniería de Sistemas** (VII semestre) en la Universidad El Bosque.  
-- 💻 Enfocado en desarrollo **backend**, arquitectura de software y construcción de APIs REST escalables.  
-- 🏆 Certificado como **Oracle APEX Cloud Developer Professional**.  
-- ⚡ 3 años de experiencia en **programación competitiva** (RPC).  
+Cuento con certificación **Oracle APEX Cloud Developer Professional** y experiencia en **programación competitiva**, lo que me ha permitido desarrollar pensamiento lógico, análisis bajo presión y enfoque en eficiencia.
 
-- 🌱 Actualmente fortaleciendo conocimientos en:  
-  `Spring Boot` · `Flask` · `Arquitectura de software` · `Docker`  
+🤝 Me interesa seguir creciendo en entornos colaborativos y participar en proyectos que generen impacto real.  
+🚀 Actualmente estoy en búsqueda de **prácticas profesionales** donde pueda aplicar y potenciar mis conocimientos.  
+📫 Puedes contactarme en: **sjurodriguez@gmail.com**
 
-- 👯 Interesado en colaborar en proyectos **open source** y entornos de desarrollo reales.  
-- 💬 Pregúntame sobre backend, APIs o bases de datos — siempre dispuesto a ayudar.  
-
-- 🚀 Actualmente en búsqueda de **prácticas profesionales**  
-
-<br>
+<br clear="right"/>
 
 ---
 
