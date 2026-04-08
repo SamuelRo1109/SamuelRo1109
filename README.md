@@ -9,7 +9,7 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></picture> Sobre mí
 
 <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="35px">
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="240px">
 </picture>
 
 Soy estudiante de Ingeniería de Sistemas en la Universidad El Bosque, con enfoque en el desarrollo backend, arquitectura de software y gestión de proyectos tecnológicos.
