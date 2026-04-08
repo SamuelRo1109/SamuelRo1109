@@ -126,11 +126,16 @@ Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño
 
 ---
 
-## 📊 Stats and Dev Activity
+## 📊 Estadísticas de GitHub
 
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRo1109&show_icons=true&theme=tokyonight)](https://github.com/SamuelRo1109)
-
-
+<p align="center">
+  <a href="https://github.com/SamuelRo1109">
+    <img src="https://github-readme-stats.vercel.app/api?username=SamuelRo1109&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="150"/>
+  </a>
+  <a href="https://github.com/SamuelRo1109">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelRo1109&theme=tokyonight&hide_border=true" height="150"/>
+  </a>
+</p>
 <p align="center">
   <b>Samuel Rodríguez</b> · Bogotá, Colombia  
 </p>
