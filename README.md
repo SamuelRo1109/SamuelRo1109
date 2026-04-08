@@ -61,7 +61,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,idea,postman" height="45"/>
 </p>
 
 ---
