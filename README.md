@@ -97,8 +97,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelRol1109&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelRol1109&theme=github-dark-blue&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelRo1109&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelRo1109&theme=github-dark-blue&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -112,8 +112,8 @@
   <a href="mailto:sjurodriguez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-sjurodriguez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/SamuelRol1109" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-SamuelRol1109-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/SamuelRo1109" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SamuelRo1109-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
