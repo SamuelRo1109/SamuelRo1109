@@ -12,18 +12,16 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-Soy estudiante de **Ingeniería de Sistemas** en la Universidad El Bosque, con enfoque en desarrollo **backend**, arquitectura de software y construcción de soluciones escalables.
+Soy estudiante de Ingeniería de Sistemas en la Universidad El Bosque, con enfoque en el desarrollo backend, arquitectura de software y gestión de proyectos tecnológicos.
 
-Me interesa construir sistemas que no solo funcionen, sino que estén bien diseñados desde la lógica y la estructura. Disfruto resolver problemas, optimizar soluciones y entender cómo funcionan las cosas a un nivel más profundo.
+Me interesa construir sistemas de información que no solo funcionen, sino que estén bien diseñados desde la lógica y la estructura. Disfruto resolver problemas, optimizar soluciones y entender cómo funcionan las cosas a un nivel más profundo.
 
-Cuento con experiencia en **programación competitiva**, participando durante varios años en competencias avaladas por la **RPC**, lo que me ha permitido fortalecer el pensamiento algorítmico, la eficiencia y la toma de decisiones bajo presión.
+Cuento con experiencia en programación competitiva, participando durante varios años en competencias avaladas por la RPC, lo que me ha permitido fortalecer mi pensamiento algorítmico, la eficiencia y la toma de decisiones bajo presión.
 
-Actualmente estoy fortaleciendo mis conocimientos en **Spring Boot, Flask, diseño de APIs REST y gestión de bases de datos relacionales y NoSQL**, buscando construir aplicaciones cada vez más completas y cercanas a entornos reales.
+Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño de APIs REST y gestión de bases de datos relacionales y NoSQL, buscando construir aplicaciones cada vez más completas y cercanas a entornos reales.
 
-💡 Me interesa hablar sobre desarrollo backend, arquitectura de software y buenas prácticas.  
 🚀 Disfruto trabajar en proyectos donde pueda aprender, aportar y mejorar constantemente.  
-📍 Bogotá, Colombia  
-📫 Reach me at: **sjurodriguez@gmail.com**
+📫 Contáctame en: **sjurodriguez@gmail.com**
 
 <br clear="right"/>
 
