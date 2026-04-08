@@ -24,18 +24,31 @@
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Lenguajes y herramientas
 
-| Categoría | Tecnologías |
-|-----------|-------------|
-| **Lenguajes** | Python · Java · JavaScript · PHP |
-| **Frameworks** | Spring Boot · Flask · JSF (Jakarta Faces) · JPA/Hibernate |
-| **Bases de datos** | PostgreSQL · MySQL · MongoDB · MariaDB · Oracle APEX (PL/SQL) |
-| **Arquitecturas** | API REST · Microservicios · MVC · Cliente/Servidor |
-| **DevOps** | Docker · Kubernetes · Git · GitHub |
-| **Testing** | JUnit 5 · Pytest · JMeter |
-| **Herramientas** | Postman · Swagger · Jira · IntelliJ IDEA · VS Code · DBeaver |
-| **Metodologías** | Scrum · Kanban |
+**Lenguajes:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,php" height="45"/>
+</p>
+
+**Frameworks & Backend:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,flask,hibernate" height="45"/>
+</p>
+
+**Bases de datos:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" height="45"/>
+</p>
+
+**DevOps & Herramientas:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,idea,postman" height="45"/>
+</p>
 
 ---
 
@@ -84,18 +97,25 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelRo1109&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelRo1109&theme=github-dark-blue&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelRol1109&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelRol1109&theme=github-dark-blue&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 📬 Contacto
+## 🤝 Conéctate conmigo
 
-- 📧 **Email:** sjurodriguez@gmail.com
-- 💼 **LinkedIn:** [samuel-rodriguez-b720a73b5](https://www.linkedin.com/in/samuel-rodriguez-b720a73b5/)
-- 🐙 **GitHub:** [SamuelRo1109](https://github.com/SamuelRol109)
-- 📍 **Ubicación:** Bogotá D.C., Colombia
+<p align="left">
+  <a href="https://www.linkedin.com/in/samuel-rodriguez-b720a73b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Samuel_Rodríguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sjurodriguez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sjurodriguez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SamuelRol1109" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SamuelRol1109-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
