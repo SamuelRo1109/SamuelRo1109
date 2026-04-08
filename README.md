@@ -30,14 +30,17 @@ Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño
   </a>
 </p>
 
-⚡ Fun fact: Los deportes ⚾ y los videojuegos 🎮 son parte esencial de mi día a día.
 
 
 <br clear="right"/>
 
 ---
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></picture> Sobre mí
 
-## 🛠️ Tecnologías
+## 💡 Skills 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+<br>
 
 ### Lenguajes
 <p align="left">
@@ -128,16 +131,9 @@ Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Stats and Dev Activity
 
-<p align="center">
-  <a href="https://github.com/SamuelRo1109">
-    <img src="https://github-readme-stats.vercel.app/api?username=SamuelRo1109&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="150"/>
-  </a>
-  <a href="https://github.com/SamuelRo1109">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelRo1109&theme=tokyonight&hide_border=true" height="150"/>
-  </a>
-</p>
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRo1109&show_icons=true&theme=tokyonight)](https://github.com/SamuelRo1109)
 
 
 <p align="center">
