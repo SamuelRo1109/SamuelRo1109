@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, Soy Samuel Rodríguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <b>Ingeniero de Sistemas en Formación · VII Semestre · Universidad El Bosque</b><br/>
