@@ -37,11 +37,9 @@ Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño
 
 ---
 
----
-
 ## 🛠️ Tecnologías
 
-### 💻 Lenguajes
+### Lenguajes
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -49,14 +47,14 @@ Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+### Backend & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 </p>
 
-### 🗄️ Bases de datos
+### Bases de datos
 <p align="left">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -64,14 +62,14 @@ Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### 🧪 Testing
+### Testing
 <p align="left">
   <img src="https://img.shields.io/badge/JUnit5-f5f5f5?style=for-the-badge&logo=junit5&logoColor=dc524a"/>
   <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3"/>
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
 </p>
 
-### 🧰 DevOps & Herramientas
+### DevOps & Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -79,7 +77,7 @@ Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
-### 🖥️ Entorno & Herramientas de desarrollo
+### Entorno & Herramientas de desarrollo
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
