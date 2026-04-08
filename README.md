@@ -4,12 +4,6 @@
   <b>Ingeniero de Sistemas en Formación · VII Semestre · Universidad El Bosque</b><br/>
   Bogotá D.C., Colombia
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🔍_Buscando-Prácticas_Profesionales-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🏆_Oracle_APEX-Certified_Professional-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/⚡_Programación-Competitiva_RPC-purple?style=flat-square"/>
-</p>
-
 ---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></picture> Sobre mí
@@ -21,6 +15,8 @@
 Soy estudiante de **Ingeniería de Sistemas** en la Universidad El Bosque, con enfoque en desarrollo **backend**, arquitectura de software y construcción de soluciones escalables.
 
 Me interesa construir sistemas que no solo funcionen, sino que estén bien diseñados desde la lógica y la estructura. Disfruto resolver problemas, optimizar soluciones y entender cómo funcionan las cosas a un nivel más profundo.
+
+Cuento con experiencia en **programación competitiva**, participando durante varios años en competencias avaladas por la **RPC**, lo que me ha permitido fortalecer el pensamiento algorítmico, la eficiencia y la toma de decisiones bajo presión.
 
 Actualmente estoy fortaleciendo mis conocimientos en **Spring Boot, Flask, diseño de APIs REST y gestión de bases de datos relacionales y NoSQL**, buscando construir aplicaciones cada vez más completas y cercanas a entornos reales.
 
