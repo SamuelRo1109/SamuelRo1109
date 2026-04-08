@@ -16,12 +16,20 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad El Bosque, con enfoq
 
 Me interesa construir sistemas de información que no solo funcionen, sino que estén bien diseñados desde la lógica y la estructura. Disfruto resolver problemas, optimizar soluciones y entender cómo funcionan las cosas a un nivel más profundo.
 
-Cuento con experiencia en programación competitiva, participando durante varios años en competencias avaladas por la RPC, lo que me ha permitido fortalecer mi pensamiento algorítmico, la eficiencia y la toma de decisiones bajo presión.
+Cuento con experiencia en programación competitiva, participando durante varios años en competencias avaladas por la Red de Programación Competitiva (RPC), lo que me ha permitido fortalecer mi pensamiento algorítmico, la eficiencia y la toma de decisiones bajo presión.
 
 Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño de APIs REST y gestión de bases de datos relacionales y NoSQL, buscando construir aplicaciones cada vez más completas y cercanas a entornos reales.
 
 🚀 Disfruto trabajar en proyectos donde pueda aprender, aportar y mejorar constantemente.  
 📫 Contáctame en: **sjurodriguez@gmail.com**
+
+⚡ Fun fact: Los deportes ⚾ y los videojuegos 🎮 son parte esencial de mi día a día.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/samuel-rodriguez-b720a73b5/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 <br clear="right"/>
 
@@ -117,21 +125,6 @@ Actualmente estoy fortaleciendo mis conocimientos en Spring Boot, Flask, diseño
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelRo1109&theme=github-dark-blue&hide_border=true" height="150"/>
 </p>
 
----
-
-## 🤝 Conéctate conmigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuel-rodriguez-b720a73b5/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="mailto:sjurodriguez@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-  <a href="https://github.com/SamuelRo1109" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-</p>
 
 <p align="center">
   <b>Samuel Rodríguez</b> · Bogotá, Colombia  
